@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jihun+%F0%9F%91%8B;Full-Stack+Developer;Blockchain+Engineer;Building+Web3+%26+Beyond)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jihun+%F0%9F%91%8B;CEO+%40+Alpsoft;Full-Stack+%26+Blockchain+Developer;Building+Web3+%26+Beyond)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -15,7 +15,7 @@
 
 ```typescript
 const jihun = {
-  role: "Full-Stack & Blockchain Developer",
+  role: "CEO @ Alpsoft",
   code: ["TypeScript", "Rust", "Solidity", "Python"],
   focus: ["Web3", "DeFi", "Smart Contracts"],
   currentlyBuilding: "Something cool 🚀",
@@ -86,8 +86,8 @@ const jihun = {
 ### 🔗 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihun-kim-556a32110/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JihunWeb3)
 
 ---
 
